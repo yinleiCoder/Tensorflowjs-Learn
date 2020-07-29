@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tensorflow-models/speech-commands": "^0.4.2",
+    "@tensorflow/tfjs": "^2.0.1",
+    "@tensorflow/tfjs-vis": "^1.4.3"
+  },
+  "browserslist": [
+    "last 1 chrome version"
+  ]
+}
