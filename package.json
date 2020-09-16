@@ -2,7 +2,12 @@
   "dependencies": {
     "@tensorflow-models/speech-commands": "^0.4.2",
     "@tensorflow/tfjs": "^2.0.1",
-    "@tensorflow/tfjs-vis": "^1.4.3"
+    "@tensorflow/tfjs-node": "^2.4.0",
+    "@tensorflow/tfjs-vis": "^1.4.3",
+    "antd": "^4.6.4",
+    "rea": "^0.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "browserslist": [
     "last 1 chrome version"
